@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherry
+  - Trap
+  - Trampoline
+  - Arrow
+  - BoxFruit
+  - Water
+  - Ice
+  - Swamp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Traps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2533829033
+    locked: 0
+  - name: Trap
+    uniqueID: 746052257
+    locked: 0
+  - name: Ground
+    uniqueID: 437061243
+    locked: 0
+  - name: Water
+    uniqueID: 3292325767
+    locked: 0
+  - name: Door
+    uniqueID: 3927540845
+    locked: 0
+  - name: Player
+    uniqueID: 2060279637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
